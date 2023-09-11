@@ -1,0 +1,6 @@
+1-  venv\Scripts\activate
+
+2-  cd .\selenium_project\
+
+Run: 
+3-  python my_test.py
